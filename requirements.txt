@@ -5,7 +5,7 @@ plotly
 plotly.express
 bokeh
 sklearn
-IPython
 tqdm
 psutil
 requests
+imodels
